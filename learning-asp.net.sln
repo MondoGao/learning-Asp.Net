@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26228.4
+VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMovie", "MvcMovie\MvcMovie.csproj", "{90E61D9F-D2EE-4DE3-8E2D-B810996FED51}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm", "WebForm\WebForm.csproj", "{FFBDA86B-C59D-47E0-8E87-6D2C013A7C68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentMvc", "Student\StudentMvc.csproj", "{E985D58B-0860-4683-B62F-05AA89C8B1CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{90E61D9F-D2EE-4DE3-8E2D-B810996FED51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{90E61D9F-D2EE-4DE3-8E2D-B810996FED51}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{90E61D9F-D2EE-4DE3-8E2D-B810996FED51}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{90E61D9F-D2EE-4DE3-8E2D-B810996FED51}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FFBDA86B-C59D-47E0-8E87-6D2C013A7C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FFBDA86B-C59D-47E0-8E87-6D2C013A7C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFBDA86B-C59D-47E0-8E87-6D2C013A7C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFBDA86B-C59D-47E0-8E87-6D2C013A7C68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E985D58B-0860-4683-B62F-05AA89C8B1CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E985D58B-0860-4683-B62F-05AA89C8B1CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E985D58B-0860-4683-B62F-05AA89C8B1CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E985D58B-0860-4683-B62F-05AA89C8B1CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
